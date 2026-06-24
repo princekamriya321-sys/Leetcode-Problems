@@ -2,7 +2,6 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-![LeetCode Stats](https://leetcard.jacoblin.cool/LIMITLESS_PRINCE)
 ## Dynamic Programming
 |  |
 | ------- |
@@ -10,6 +9,7 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
@@ -19,6 +19,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## String
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
