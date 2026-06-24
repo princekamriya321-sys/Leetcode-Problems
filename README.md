@@ -2,6 +2,7 @@
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+![LeetCode Stats](https://leetcard.jacoblin.cool/LIMITLESS_PRINCE)
 ## Dynamic Programming
 |  |
 | ------- |
