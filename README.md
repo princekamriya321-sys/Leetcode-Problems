@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
