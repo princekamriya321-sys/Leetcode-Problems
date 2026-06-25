@@ -33,6 +33,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -59,5 +60,6 @@
 |  |
 | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
