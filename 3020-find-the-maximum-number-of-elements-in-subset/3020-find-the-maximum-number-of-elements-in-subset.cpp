@@ -1,35 +1,34 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        int n = nums.size();
-        map<long long,int> freq;
-        int one = 0;
-        for(auto it: nums){
-            if(it == 1) one++;
-            freq[it]++;
+       map<long long ,int> freq;
+       int one = 0;
+       for(auto it : nums){
+        if(it == 1) one++;
+        freq[it]++;
+       } 
+       if(one != 0 && one %2 == 0){
+        one--;
+       }
+       int ans = one;
+       for(auto it : freq){
+        long long val = it.first;
+        long long base = sqrt(val);
+        if((base*base == val) && freq.count(base) && freq[base] > 1){
+            continue;
         }
-        if(one != 0 && one%2 == 0){
-            one--;
+        int count = 0;
+        while(freq.count(val) && freq[val] > 1){
+            count+= 2;
+            val = (val*1LL*val);
         }
-        int ans= one;
-        for(auto it: freq){
-            long long val = it.first;
-            long long base = sqrt(val);
-            if((base*base == val) && freq.count(base) && freq[base] > 1){
-                continue;
-            }
-            int count = 0;
-            while(freq.count(val) && freq[val] > 1){
-                count+=2;
-                val = (val*1LL*val);
-            }
-            if(freq[val] == 1){
-                count++;
-            } else {
-                count--;
-            }
-            ans = max(ans,count);
+        if(freq[val] == 1){
+            count++;
+        } else {
+            count--;
         }
-        return ans;
+ans = max(ans,count);
+       }
+       return ans;
     }
 };
