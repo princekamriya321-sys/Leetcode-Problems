@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
