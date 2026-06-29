@@ -9,6 +9,7 @@
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
