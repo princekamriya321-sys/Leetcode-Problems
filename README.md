@@ -8,6 +8,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
@@ -67,6 +68,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
