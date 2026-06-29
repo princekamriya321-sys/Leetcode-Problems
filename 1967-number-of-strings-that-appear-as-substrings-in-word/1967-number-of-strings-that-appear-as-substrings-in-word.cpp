@@ -8,6 +8,6 @@ if(word.find(patterns[i]) != string::npos){
     ans++;
 }
         }
-        return ans;
+        return ans;  
     }
 };
