@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -93,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -158,4 +160,12 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
