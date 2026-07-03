@@ -1,0 +1,55 @@
+class Solution {
+public:
+typedef long long ll;
+typedef pair<long long,int> P;
+bool check(int m,int n,ll k,unordered_map<int,vector<vector<int>>> &adj){
+    vector<ll> result(n,LLONG_MAX);
+    priority_queue<P,vector<P>,greater<P>> pq;
+    result[0] = 0;
+    pq.push({0,0});
+    while(pq.size()>0){
+        ll d = pq.top().first;
+        int node = pq.top().second;
+        pq.pop();
+        if(d>k) return false;
+        if(node == n-1) return true;
+        if(result[node] < d) continue;
+        for(auto& vec: adj[node]){
+            int nbgr = vec[0];
+            int cost = vec[1];
+            if(cost < m) continue;
+         if(d + cost < result[nbgr]){
+            result[nbgr] = d + cost;
+            pq.push({d+cost,nbgr});
+         }
+        }
+    }
+    return false;
+}
+    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
+        int n = online.size();
+        int lo = INT_MAX;
+        int hi = 0;
+        unordered_map<int,vector<vector<int>>> adj;
+        for(auto& edge : edges){
+            int u = edge[0];
+            int v = edge[1];
+            int cost = edge[2];
+            if(!online[u] || !online[v]) continue;
+            adj[u].push_back({v,cost});
+           lo = min(lo,cost);
+           hi = max(hi,cost);
+        }
+        int ans = -1;
+        while(lo<=hi){
+         int m = lo + (hi-lo)/2;
+         if(check(m,n,k,adj)){
+            ans = m;
+            lo = m+1;
+         } else {
+            hi = m-1;
+         }
+        }
+        return ans;
+    }
+};
