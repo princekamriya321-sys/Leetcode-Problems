@@ -61,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Breadth-First Search
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Matrix
 |  |
