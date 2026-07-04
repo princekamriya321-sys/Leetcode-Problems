@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Shortest Path
 |  |
 | ------- |
