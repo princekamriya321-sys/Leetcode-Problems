@@ -65,6 +65,7 @@
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -209,6 +211,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Shortest Path
 |  |
 | ------- |
