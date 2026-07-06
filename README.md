@@ -60,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
