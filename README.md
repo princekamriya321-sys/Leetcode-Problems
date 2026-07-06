@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -166,6 +168,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -237,6 +240,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [3620-network-recovery-pathways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Brainteaser
 |  |
