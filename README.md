@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
@@ -185,6 +187,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0135-candy) |
