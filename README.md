@@ -104,6 +104,7 @@
 | [0118-pascals-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0135-candy) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
