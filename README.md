@@ -82,6 +82,7 @@
 | [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -122,6 +123,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -214,6 +216,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
+| [0994-rotting-oranges](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1463-cherry-pickup-ii) |
