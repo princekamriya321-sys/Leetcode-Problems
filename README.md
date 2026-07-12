@@ -74,6 +74,7 @@
 | [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -144,6 +145,7 @@
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -185,16 +187,19 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -310,4 +315,12 @@
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
