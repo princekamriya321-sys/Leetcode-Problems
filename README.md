@@ -122,6 +122,7 @@
 | [0319-bulb-switcher](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -345,4 +346,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
