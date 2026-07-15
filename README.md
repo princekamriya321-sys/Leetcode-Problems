@@ -23,6 +23,7 @@
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -155,6 +156,7 @@
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0860-lemonade-change) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -333,6 +336,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
