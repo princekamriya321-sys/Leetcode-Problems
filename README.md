@@ -72,6 +72,7 @@
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -207,6 +208,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -314,6 +316,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
 |  |
