@@ -17,6 +17,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -151,6 +153,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
