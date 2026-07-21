@@ -5,6 +5,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
@@ -385,6 +387,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1048-longest-string-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1048-longest-string-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
