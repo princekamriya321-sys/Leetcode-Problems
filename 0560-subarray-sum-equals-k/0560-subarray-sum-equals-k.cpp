@@ -15,9 +15,9 @@ vector<long long> func(vector<int>&nums){
       int ans = 0;
       vector<long long> prefixsum = func(nums);
       unordered_map<int,int> mp;
-       mp[0] = 1;
+    //    mp[0] = 1;
       for(int i = 0; i<n; i++){
-        // if(prefixsum[i] == k) ans++;
+        if(prefixsum[i] == k) ans++;
         int sum = prefixsum[i]-k;
        if(mp.find(sum) != mp.end()){
         ans+=mp[sum];
