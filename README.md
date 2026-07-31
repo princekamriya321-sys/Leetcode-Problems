@@ -47,6 +47,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0210-course-schedule-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
@@ -69,6 +71,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
@@ -466,4 +470,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
