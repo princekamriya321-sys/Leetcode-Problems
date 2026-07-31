@@ -45,12 +45,14 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
@@ -65,6 +67,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## String
 |  |
@@ -446,6 +449,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
