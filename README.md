@@ -207,6 +207,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 ## Array
@@ -527,4 +528,5 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
