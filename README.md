@@ -49,6 +49,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -63,6 +64,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
@@ -84,6 +86,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -495,6 +498,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
