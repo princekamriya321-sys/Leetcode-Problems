@@ -31,6 +31,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -183,6 +184,7 @@
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -243,6 +245,7 @@
 | [0740-delete-and-earn](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
@@ -524,6 +527,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
