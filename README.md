@@ -132,6 +132,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -238,6 +240,7 @@
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0238-product-of-array-except-self](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -486,6 +489,7 @@
 | [0005-longest-palindromic-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1048-longest-string-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1048-longest-string-chain) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -563,4 +567,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
