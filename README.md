@@ -15,6 +15,7 @@
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
@@ -227,6 +228,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0135-candy) |
