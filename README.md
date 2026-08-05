@@ -111,6 +111,7 @@
 | [0091-decode-ways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -300,6 +301,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
