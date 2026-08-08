@@ -194,6 +194,7 @@
 | [0319-bulb-switcher](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0372-super-pow) |
 | [0486-predict-the-winner](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0372-super-pow](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -599,4 +601,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
