@@ -28,6 +28,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -120,6 +121,7 @@
 | [0316-remove-duplicate-letters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
