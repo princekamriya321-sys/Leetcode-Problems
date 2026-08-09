@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
@@ -116,6 +117,7 @@
 | [0072-edit-distance](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -441,6 +443,7 @@
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
