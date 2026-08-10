@@ -46,6 +46,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
@@ -213,6 +214,7 @@
 | [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -607,6 +609,7 @@
 | [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -617,11 +620,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -642,4 +647,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
