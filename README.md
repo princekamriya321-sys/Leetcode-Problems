@@ -33,6 +33,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -283,6 +284,7 @@
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -421,6 +423,7 @@
 | [0135-candy](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -437,6 +440,7 @@
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1048-longest-string-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1048-longest-string-chain) |
@@ -666,4 +670,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
