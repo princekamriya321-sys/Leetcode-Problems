@@ -261,6 +261,7 @@
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -601,6 +602,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -612,6 +614,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -702,4 +705,8 @@
 | [0232-implement-queue-using-stacks](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
