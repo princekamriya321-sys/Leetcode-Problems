@@ -526,6 +526,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Trie
@@ -600,6 +601,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
