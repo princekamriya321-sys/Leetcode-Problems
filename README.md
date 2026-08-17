@@ -577,6 +577,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -670,6 +671,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
