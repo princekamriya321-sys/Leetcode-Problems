@@ -337,6 +337,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -619,6 +620,7 @@
 | [1260-shift-2d-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
