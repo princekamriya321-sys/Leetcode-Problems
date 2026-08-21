@@ -1,60 +1,28 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
+        unordered_map<int, unordered_set<int>> mp;
+       for(auto& reserved : reservedSeats){
+        int row = reserved[0];
+        int seat = reserved[1];
+      mp[row].insert(seat);
+       }
+       int result = (n-mp.size())*2;
+       for(auto&[row,bookseats]: mp){
 
-        unordered_map<int, int> mp;
+       auto isAvailable = [&](int seat){
+return bookseats.find(seat) == bookseats.end();
+       };
 
-        // Store reserved seats for each row as a bitmask
-        for (auto &seat : reservedSeats) {
-            int row = seat[0];
-            int col = seat[1];
-
-            mp[row] |= (1 << col);
+        bool groupA = isAvailable(2)&&isAvailable(3)&&isAvailable(4)&&isAvailable(5);
+        bool groupB = isAvailable(4)&&isAvailable(5)&&isAvailable(6)&&isAvailable(7);
+        bool groupC = isAvailable(6)&&isAvailable(7)&&isAvailable(8)&&isAvailable(9);
+        if(groupA && groupC){
+            result+=2;
+        } else if(groupA||groupB||groupC){
+            result += 1;
         }
-
-        long long ans = 2LL * (n - mp.size());
-
-        // Process only rows having reserved seats
-        for (auto &[row, mask] : mp) {
-
-            bool left = true;
-            bool middle = true;
-            bool right = true;
-
-            // Seats 2,3,4,5
-            for (int col = 2; col <= 5; col++) {
-                if (mask & (1 << col)) {
-                    left = false;
-                    break;
-                }
-            }
-
-            // Seats 4,5,6,7
-            for (int col = 4; col <= 7; col++) {
-                if (mask & (1 << col)) {
-                    middle = false;
-                    break;
-                }
-            }
-
-            // Seats 6,7,8,9
-            for (int col = 6; col <= 9; col++) {
-                if (mask & (1 << col)) {
-                    right = false;
-                    break;
-                }
-            }
-
-            if (left && right) {
-                // We can fit two families
-                ans += 2;
-            }
-            else if (left || middle || right) {
-                // At least one block is available
-                ans += 1;
-            }
-        }
-
-        return ans;
+       }
+       return result;
     }
 };
