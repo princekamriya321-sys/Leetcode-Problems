@@ -1,91 +1,49 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+typedef long long ll;
 class Solution {
 public:
-
-    long long gcd(long long a, long long b) {
-        return std::gcd(a, b);
-    }
-
-    long long lcm(long long a, long long b, long long limit) {
-        long long g = gcd(a, b);
-
-        __int128 val = (__int128)(a / g) * b;
-
-        if(val > limit)
-            return limit + 1;
-
-        return (long long)val;
-    }
-
-    // How many valid amounts are <= x
-    long long countValid(long long x, vector<int>& coins, long long k) {
-
-        int n = coins.size();
-        long long ans = 0;
-
-        // Inclusion-Exclusion
-        for(int mask = 1; mask < (1 << n); mask++) {
-
-            long long currentLCM = 1;
-            int bits = 0;
-            bool tooLarge = false;
-
-            for(int i = 0; i < n; i++) {
-
-                if(mask & (1 << i)) {
-
-                    bits++;
-
-                    currentLCM = lcm(
-                        currentLCM,
-                        coins[i],
-                        x
-                    );
-
-                    if(currentLCM > x) {
-                        tooLarge = true;
-                        break;
-                    }
-                }
-            }
-
-            if(tooLarge)
-                continue;
-
-            long long cnt = x / currentLCM;
-
-            if(bits % 2 == 1)
-                ans += cnt;
-            else
-                ans -= cnt;
+ll gcd(ll a,ll b){
+    if(a== 0) return b;
+    return gcd(b%a,a);
+}
+ll countSmaller(vector<int> &coins,ll mid){
+    ll correctedcount = 0;
+    int n = coins.size();
+    for(int i = 1; i<=(1<<n)-1; i++){
+    ll order = 0;
+    ll lcm = 0;
+    for(int j =0; j<n; j++){
+    if((i&(1<<j))){
+        order++;
+        if(lcm == 0){
+            lcm = 1LL*coins[j];
+        } else {
+            lcm = 1LL*lcm*coins[j]/gcd(lcm,coins[j]);
         }
-
-        return ans;
     }
-
+    }
+    if(order%2 == 0){
+        correctedcount -= mid/lcm;
+    } else {
+        correctedcount += mid/lcm;
+    }
+    }
+    return correctedcount;
+}
     long long findKthSmallest(vector<int>& coins, int k) {
-
-        long long mn = *min_element(coins.begin(), coins.end());
-
-        // Upper bound:
-        // k multiples of the smallest coin
-        long long lo = 1;
-        long long hi = mn * 1LL * k;
-
-        while(lo < hi) {
-
-            long long mid = lo + (hi - lo) / 2;
-
-            if(countValid(mid, coins, k) >= k) {
-                hi = mid;
-            }
-            else {
-                lo = mid + 1;
-            }
-        }
-
-        return lo;
+     ll result = -1;
+     ll lo = 1;
+     ll hi = 1LL*(*max_element(coins.begin(),coins.end()))*k;
+while(lo<=hi){
+    ll mid = lo+(hi-lo)/2;
+    if(k <= countSmaller(coins,mid)){
+        result = mid;
+        hi = mid-1;
+    } else {
+        lo = mid+1;
+    }
+}
+return result;
     }
 };
