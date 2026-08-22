@@ -329,6 +329,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -439,6 +440,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -542,6 +544,7 @@
 | [0684-redundant-connection](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [1020-number-of-enclaves](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -751,4 +754,20 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
