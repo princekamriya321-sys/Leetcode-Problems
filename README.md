@@ -270,6 +270,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
@@ -506,6 +507,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
