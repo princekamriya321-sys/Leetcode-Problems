@@ -368,6 +368,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -521,6 +522,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
