@@ -286,6 +286,7 @@
 | [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
@@ -503,6 +504,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -780,6 +782,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
 ## Longest Increasing Subsequence
 |  |
