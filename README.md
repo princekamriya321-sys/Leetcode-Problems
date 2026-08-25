@@ -276,6 +276,7 @@
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
@@ -516,6 +517,7 @@
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -788,4 +790,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
