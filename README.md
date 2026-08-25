@@ -74,6 +74,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -123,6 +124,7 @@
 | [0038-count-and-say](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -287,6 +289,7 @@
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0090-subsets-ii) |
@@ -530,6 +533,7 @@
 | [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
@@ -541,6 +545,7 @@
 | [0054-spiral-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0200-number-of-islands) |
