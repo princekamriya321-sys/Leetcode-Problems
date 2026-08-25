@@ -273,6 +273,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
@@ -373,6 +374,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -515,6 +517,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
@@ -526,6 +529,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0130-surrounded-regions) |
@@ -793,5 +797,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
