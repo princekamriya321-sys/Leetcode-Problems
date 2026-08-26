@@ -170,6 +170,7 @@
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -326,6 +327,7 @@
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
