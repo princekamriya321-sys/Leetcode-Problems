@@ -13,6 +13,7 @@
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0120-triangle) |
@@ -58,6 +59,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -102,6 +104,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -224,6 +227,7 @@
 | [0002-add-two-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
 | [0319-bulb-switcher](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
@@ -704,6 +708,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
