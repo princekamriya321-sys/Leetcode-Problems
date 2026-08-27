@@ -282,6 +282,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
@@ -764,6 +765,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
