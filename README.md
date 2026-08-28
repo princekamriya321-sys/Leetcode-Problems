@@ -62,6 +62,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0130-surrounded-regions) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -758,6 +761,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
