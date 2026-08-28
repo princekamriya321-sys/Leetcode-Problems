@@ -306,6 +306,7 @@
 | [0056-merge-intervals](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -534,6 +535,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -667,6 +669,7 @@
 | [0031-next-permutation](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -822,6 +825,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
 ## Longest Increasing Subsequence
 |  |
@@ -875,4 +879,8 @@
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
