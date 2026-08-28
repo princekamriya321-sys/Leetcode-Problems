@@ -102,6 +102,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -227,6 +228,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -383,6 +385,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2527-find-xor-beauty-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2527-find-xor-beauty-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -600,6 +603,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1463-cherry-pickup-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -715,6 +719,7 @@
 | [1260-shift-2d-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
