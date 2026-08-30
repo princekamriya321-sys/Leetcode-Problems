@@ -390,6 +390,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2527-find-xor-beauty-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
@@ -540,6 +541,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
