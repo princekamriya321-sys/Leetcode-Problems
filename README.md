@@ -804,6 +804,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Minimax
 |  |
 | ------- |
