@@ -73,6 +73,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -94,6 +95,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -125,6 +127,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -226,6 +229,7 @@
 | [0322-coin-change](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
