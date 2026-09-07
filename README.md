@@ -40,6 +40,7 @@
 | [0740-delete-and-earn](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -164,6 +165,7 @@
 | [0567-permutation-in-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0940-distinct-subsequences-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
