@@ -81,6 +81,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -139,6 +141,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
 | ------- |
