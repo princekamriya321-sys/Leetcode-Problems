@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<long long> resultArray(vector<int>& nums, int k) {
+      int n = nums.size();
+      vector<long long> result(k,0);
+      vector<long long> prevcount(k,0);
+  for(int i =0; i<n; i++){
+    vector<long long> currcount(k,0);
+    int currrem = nums[i]%k;
+    currcount[currrem]++;
+    for(int oldrem = 0; oldrem <k; oldrem++){
+        long long newrem = ((long long)oldrem * nums[i] % k)%k;
+        currcount[newrem] += prevcount[oldrem];
+    }
+    prevcount = std::move(currcount);
+    for(int x =0; x<k; x++){
+        result[x] += prevcount[x];
+    }
+  }
+  return result;
+    }
+};
