@@ -201,6 +201,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
@@ -374,6 +375,7 @@
 | [0134-gas-station](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0200-number-of-islands) |
@@ -764,6 +766,7 @@
 | [0088-merge-sorted-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
