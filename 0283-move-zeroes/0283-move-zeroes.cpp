@@ -6,17 +6,21 @@ public:
         for(int v: nums){
             if(v == 0) ct++;
         }
-    vector<int> ans;
-    for(int i =0; i<n; i++){
-        if(nums[i] != 0){
-            ans.push_back(nums[i]);
+        for(int i =0; i<n; i++){
+            int j = i;
+            while(j<n && nums[j] == 0){
+                j++;
+            }
+            if(nums[i] == 0 && j<n){
+            nums[i] = nums[j];
+            nums[j] = 0;
+            }
         }
-    }
-    for(int i = 0; i<n;i++){
-        nums[i] = 0;
-    }
-    for(int i =0; i<ans.size(); i++){
-        nums[i] = ans[i];
-    }
+        int i = n-1;
+        while(ct!= 0){
+            nums[i] = 0;
+            i--;
+            ct--;
+        }
     }
 };
