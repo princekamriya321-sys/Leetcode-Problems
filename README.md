@@ -11,6 +11,7 @@
 | [0044-wildcard-matching](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0091-decode-ways) |
@@ -276,6 +277,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0233-number-of-digit-one) |
@@ -815,6 +817,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
