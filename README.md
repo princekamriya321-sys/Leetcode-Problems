@@ -235,6 +235,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0693-binary-number-with-alternating-bits](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1386-cinema-seat-allocation](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2527-find-xor-beauty-of-array) |
