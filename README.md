@@ -408,6 +408,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0494-target-sum) |
