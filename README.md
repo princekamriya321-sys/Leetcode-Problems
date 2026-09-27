@@ -182,6 +182,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -868,6 +869,7 @@
 | [0503-next-greater-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -1041,4 +1043,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
