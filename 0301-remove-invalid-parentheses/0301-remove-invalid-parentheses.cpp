@@ -1,49 +1,42 @@
 class Solution {
-private:
-    unordered_set<string> st;
-    int n;
-
-    void solve(const string& s, int i, string& curr, int count, int& maxLen) {
-        if (count < 0) 
-            return;
-
-        if (i == n) {
-            if (count == 0) {
-                if (curr.length() > maxLen) {      
-                    maxLen = curr.length();
-                    st.clear();
-                }
-                
-                if(curr.length() == maxLen) {
-                    st.insert(curr);
-                }
-                
-            }
-            return;
-        }
-
-        if (s[i] != '(' && s[i] != ')') {         
-            curr.push_back(s[i]);
-            solve(s, i + 1, curr, count, maxLen);
-            curr.pop_back();
-            return;
-        }
-        curr.push_back(s[i]);
-        solve(s, i + 1, curr, count + (s[i] == '(' ? 1 : -1), maxLen);
-
-        curr.pop_back();
-        solve(s, i + 1, curr, count, maxLen);
-    }
-
 public:
+unordered_set<string> st;
+int n;
+int maxLen;
+void solve(string& s,int i,int ct,string &t){
+    if(ct<0) return;
+    if(i>= n){
+        if(ct == 0){
+        if(t.size() > maxLen){
+            maxLen = t.size();
+            st.clear();
+        }
+        if(t.size() == maxLen){
+            st.insert(t);
+        }
+        }
+        return;
+    }
+    if(s[i] != '(' && s[i] != ')'){
+       t.push_back(s[i]);
+            solve(s, i + 1, ct, t);
+            t.pop_back();
+            return;
+    }
+    t.push_back(s[i]);
+    solve(s,i+1,ct + (s[i] == '(' ? 1: (-1)),t);
+    t.pop_back();
+    solve(s,i+1,ct,t);
+}
     vector<string> removeInvalidParentheses(string s) {
-        n = s.length();
-        int maxLen = 0;
-        st.clear();
-
-        string curr = "";
-        solve(s, 0, curr, 0, maxLen);
-
-        return vector<string>(begin(st), end(st));
+        n = s.size();
+        string t = "";
+        maxLen = 0;
+        solve(s,0,0,t);
+vector<string> ans;
+for(auto &sr : st) {
+        ans.push_back(sr);
+}
+        return ans;
     }
 };
