@@ -491,6 +491,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2527-find-xor-beauty-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -612,6 +613,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
