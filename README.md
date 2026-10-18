@@ -299,6 +299,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1096-brace-expansion-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1765-map-of-highest-peak) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -482,6 +483,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1765-map-of-highest-peak](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1872-stone-game-viii) |
@@ -779,6 +781,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1463-cherry-pickup-ii) |
+| [1765-map-of-highest-peak](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1765-map-of-highest-peak) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
