@@ -60,6 +60,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -94,6 +95,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String
 |  |
@@ -329,6 +332,7 @@
 | [1406-stone-game-iii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1927-sum-game) |
@@ -481,6 +485,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -599,6 +604,7 @@
 | [0372-super-pow](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -816,6 +822,7 @@
 | [0785-is-graph-bipartite](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -927,6 +934,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -982,6 +990,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -1149,4 +1158,12 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
