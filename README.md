@@ -216,6 +216,7 @@
 | [1927-sum-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -346,6 +347,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2527-find-xor-beauty-of-array](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
