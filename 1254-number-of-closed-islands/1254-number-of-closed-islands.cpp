@@ -1,42 +1,29 @@
 class Solution {
 public:
-    
-    int m, n;
-    bool dfs(vector<vector<int>> &grid, int r, int c) {
-        
-        if(r < 0 || r >= m || c < 0 || c >= n)
-            return false; //Not closed
-        
-        if(grid[r][c] == 1)
-            return true; //closed here
-        
-        grid[r][c] = 1;
-        
-        bool left  = dfs(grid, r, c-1);
-        bool right = dfs(grid, r, c+1);
-        bool up    = dfs(grid, r-1, c);
-        bool down  = dfs(grid, r+1, c);
-        
-        return left && right && up && down;
-        
-    }
-    
+int n,m;
+bool solve(vector<vector<int>>& grid,int i,int j){
+    if(i<0 || i>=n || j<0 || j>=m) return false;
+    if(grid[i][j]==1) return true;
+    grid[i][j] = 1;
+       bool up = solve(grid, i - 1, j);
+        bool down = solve(grid, i + 1, j);
+        bool left = solve(grid, i, j - 1);
+        bool right = solve(grid, i, j + 1);
+
+        return up && down && left && right;
+}
     int closedIsland(vector<vector<int>>& grid) {
-        m = grid.size();
-        n = grid[0].size();
-        
-        int count = 0;
-        
-        for(int i = 0; i<m; i++) {
-            for(int j = 0; j<n; j++) {
-                
-                if(grid[i][j] == 0) {
-                    count += dfs(grid, i, j);
+        n = grid.size();
+        m = grid[0].size();
+        int ct = 0;
+        for(int i =0; i<n; i++){
+            for(int j =0; j<m; j++){
+                if(grid[i][j] == 0){
+                    bool ans = solve(grid,i,j);
+                    if(ans) ct++;
                 }
-                
             }
         }
-        
-        return count;
+        return ct;
     }
 };
