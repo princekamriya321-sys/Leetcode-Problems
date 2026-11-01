@@ -11,18 +11,15 @@
  */
 class Solution {
 public:
-bool solve(TreeNode* p,TreeNode* q){
-   if(p == nullptr && q == nullptr) return true;
-         if(p == nullptr && q != nullptr) return false;
-         if(p != nullptr && q == nullptr) return false;
-         if(p->val != q->val) return false;
-        bool l = solve(p->left,q->left);
-        bool r = solve(p->right,q->right);
-        return (l&&r);
+bool solve(TreeNode* p, TreeNode* q){
+    if(p == nullptr && q == nullptr) return true;
+    if(p != nullptr && q== nullptr || (p == nullptr && q != nullptr)) return false;
+    if(p->val != q->val) return false;
+    bool l = solve(p->left,q->left);
+    bool r = solve(p->right,q->right);
+    return l&&r;
 }
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p == nullptr && q == nullptr) return true;
-         if(p == nullptr && q != nullptr) return false;
-         return solve(p,q);
+        return solve(p,q);
     }
 };
