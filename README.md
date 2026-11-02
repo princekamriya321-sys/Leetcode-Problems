@@ -93,6 +93,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -122,6 +123,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0463-island-perimeter](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -164,6 +166,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1218,4 +1221,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
