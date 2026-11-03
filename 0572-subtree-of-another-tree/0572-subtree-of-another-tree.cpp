@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-bool solve(TreeNode* root,TreeNode* subRoot){
-    if(root == nullptr && subRoot == nullptr) return true;
-    if(root == nullptr && subRoot != nullptr) return false;
-    if(root != nullptr && subRoot == nullptr) return false;
-    bool l = solve(root->left,subRoot->left);
-    bool r = solve(root->right,subRoot->right);
-    return root->val == subRoot->val && (l && r);
+bool solve(TreeNode* s,TreeNode* t){
+    if(s == nullptr && t == nullptr) return true;
+    if(s!= nullptr && t == nullptr) return false;
+    if(s == nullptr && t != nullptr) return false;
+    if(s->val != t->val) return false;
+    bool l = solve(s->left,t->left);
+    bool r = solve(s->right,t->right);
+    return l&&r;
 }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-         if(root == nullptr) return false;
-        if(root->val == subRoot->val){
-            if(solve(root,subRoot)) return true;
-        }
-            bool l = isSubtree(root->left,subRoot);
-            bool r = isSubtree(root->right,subRoot);
-            return (l || r);
-        }
+        if(root == nullptr && subRoot == nullptr) return true;
+        if(root == nullptr && subRoot != nullptr) return false;
+        if(solve(root,subRoot)) return true;
+        bool l = isSubtree(root->left,subRoot);
+        bool r = isSubtree(root->right,subRoot);
+        return l || r;
+    }
 };
