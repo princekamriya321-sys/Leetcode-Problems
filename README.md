@@ -1276,4 +1276,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
