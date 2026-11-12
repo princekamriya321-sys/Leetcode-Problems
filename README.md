@@ -422,6 +422,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -512,6 +513,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0739-daily-temperatures) |
