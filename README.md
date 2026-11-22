@@ -251,6 +251,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
