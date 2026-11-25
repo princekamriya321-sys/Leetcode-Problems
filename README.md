@@ -304,6 +304,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -643,6 +644,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -699,6 +701,7 @@
 | [3731-find-missing-elements](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1149,6 +1152,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -1330,4 +1334,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/princekamriya321-sys/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
